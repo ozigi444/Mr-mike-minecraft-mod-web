@@ -1,0 +1,11 @@
+.main{
+    background-color: red;
+}
+.logo{
+    color: white;
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 20px;
+    float: left;
+    padding-top: 10px;
+}
